@@ -26,7 +26,7 @@ Ensure you have the following libraries installed:
 You can create a conda environment from the `com6018.environment.yml` file and activate it,
 
 ```bash
-cd assignment-data-visualization
+cd assg-data-visualization
 conda env create -n com6018 -f com6018.environment.yml
 conda activate com6018
 ```
